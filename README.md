@@ -25,4 +25,4 @@ Console will appear as such:
 
 Console will utilise the terminal to clear the screen using `printf("\033[H\033[J");`. 
 
-I have tested this on FreeBSD & RaspbianOS. I do not have any other machines to try. So, good luck if you somehow find this !
+I have tested this on *BSD, Linux, and MacOS.
