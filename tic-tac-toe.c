@@ -10,11 +10,6 @@ int result = 0;
 int players_turn = 1;
 bool game_ended = false;
 
-void GAME_START();
-void GAME_PLAY();
-void GAME_END();
-void GAME_AGAIN();
-
 void GAME_START()
 {
    result = 0;
